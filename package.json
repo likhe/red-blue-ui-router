@@ -1,0 +1,15 @@
+{
+  "name": "red-blue-ui-router",
+  "version": "1.0.0",
+  "description": "Angular 1 UI Router simple example.",
+  "main": "app.js",
+  "dependencies": {
+    "angular-ui-router": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
